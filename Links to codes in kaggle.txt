@@ -1,0 +1,5 @@
+Task 01: https://www.kaggle.com/code/sidahmedboudaoud/movie-genre-classifier
+Task 02: https://www.kaggle.com/code/sidahmedboudaoud/credit-card-fraud-detection 
+Task 03: https://www.kaggle.com/code/sidahmedboudaoud/customer-churn-prediction
+Task 04: https://www.kaggle.com/code/sidahmedboudaoud/spam-sms-detection
+Task 05: https://www.kaggle.com/code/sidahmedboudaoud/hand-written-text-recognition
